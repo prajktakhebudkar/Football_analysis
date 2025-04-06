@@ -19,7 +19,7 @@ The project provides:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/football_analysis.git
+git clone https://github.com/prajktakhebudkar/football_analysis.git
 cd football_analysis
 ```
 
